@@ -36,7 +36,6 @@ class Solution {
 
                     long next = cur * cur;
 
-                    // If next doesn't exist, current becomes the center
                     if (!map.containsKey(next)) {
                         len--;      // remove one copy to make center
                         break;
@@ -44,7 +43,7 @@ class Solution {
 
                     cur = next;
                 } else if (cnt == 1) {
-                    len++;          // current is the center
+                    len++;          
                     break;
                 } else {
                     break;
