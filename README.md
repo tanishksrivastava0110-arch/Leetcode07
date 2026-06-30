@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0058-length-of-last-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
