@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
