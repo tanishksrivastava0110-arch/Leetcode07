@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0058-length-of-last-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
