@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
