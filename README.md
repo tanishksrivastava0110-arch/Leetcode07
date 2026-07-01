@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0029-divide-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
