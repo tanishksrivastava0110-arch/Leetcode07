@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0349-intersection-of-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0136-single-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -176,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
