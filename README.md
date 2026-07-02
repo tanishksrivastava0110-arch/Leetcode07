@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3945-digit-frequency-score](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3945-digit-frequency-score](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
