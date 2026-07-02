@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
