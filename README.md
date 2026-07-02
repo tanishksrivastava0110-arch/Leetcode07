@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
