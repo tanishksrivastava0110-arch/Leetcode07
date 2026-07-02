@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3783-mirror-distance-of-an-integer) |
