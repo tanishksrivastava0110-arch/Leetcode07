@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
+| [2469-convert-the-temperature](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
