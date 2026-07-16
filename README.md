@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0205-isomorphic-strings) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
