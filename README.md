@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0058-length-of-last-word) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
 ## Simulation
 |  |
