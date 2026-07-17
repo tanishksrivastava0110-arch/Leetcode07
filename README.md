@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0349-intersection-of-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0349-intersection-of-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
