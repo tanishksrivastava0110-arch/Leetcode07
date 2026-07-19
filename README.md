@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0217-contains-duplicate) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0046-permutations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
