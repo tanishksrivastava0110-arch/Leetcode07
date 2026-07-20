@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0349-intersection-of-two-arrays) |
+| [1260-shift-2d-grid](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
