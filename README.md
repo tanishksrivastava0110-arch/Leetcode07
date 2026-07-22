@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0046-permutations) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0217-contains-duplicate) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0144-binary-tree-preorder-traversal) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0144-binary-tree-preorder-traversal) |
