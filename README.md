@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
