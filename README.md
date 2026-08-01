@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0067-add-binary) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0316-remove-duplicate-letters) |
