@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0486-predict-the-winner) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0486-predict-the-winner) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tanishksrivastava0110-arch/Leetcode07/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
